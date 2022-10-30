@@ -1,3 +1,5 @@
+#File PEApps.zip berisi semua direktori dari desain UI Saya bisa dunduh, termasuk di dalamnya Dimen, Padding, dan ImageSource
+
 # DesainProjectPEApps
 Desain Project sesuai yang di desain pada CorelDraw
 <?xml version="1.0" encoding="utf-8"?>
